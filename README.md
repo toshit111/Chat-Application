@@ -58,6 +58,13 @@ Go to `http://localhost:3000` (or the port mentioned in your config).
 
 ## 🎥 Screenshots  
 📸 Output
+https://github.com/toshit111/Chat-Application/blob/main/output/Screenshot%202025-02-12%20205118.png?raw=true
+
+https://github.com/toshit111/Chat-Application/blob/main/output/Screenshot%202025-02-12%20205142.png?raw=true
+
+https://github.com/toshit111/Chat-Application/blob/main/output/Screenshot%202025-02-12%20205155.png?raw=true
+
+https://github.com/toshit111/Chat-Application/blob/main/output/Screenshot%202025-02-12%20205234.png?raw=true
 
 
 ---
