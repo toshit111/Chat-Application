@@ -59,6 +59,8 @@ Go to `http://localhost:3000` (or the port mentioned in your config).
 ## 🎥 Screenshots  
 📸 Output
 
+![Image](https://github.com/user-attachments/assets/907ffcbf-e36f-489c-902e-819f1bb64e59)
+
 ---
 
 ## 🏗️ Future Improvements  
