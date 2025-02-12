@@ -61,6 +61,12 @@ Go to `http://localhost:3000` (or the port mentioned in your config).
 
 ![Image](https://github.com/user-attachments/assets/907ffcbf-e36f-489c-902e-819f1bb64e59)
 
+![Image](https://github.com/user-attachments/assets/f01683c4-d554-475d-b46f-57d3de08bc59)
+
+![Image](https://github.com/user-attachments/assets/17b4ed92-5838-438b-8e88-6c60a7e76069)
+
+![Image](https://github.com/user-attachments/assets/c1f37bbb-6502-42fc-9996-3ed7c9b2df64)
+
 ---
 
 ## 🏗️ Future Improvements  
